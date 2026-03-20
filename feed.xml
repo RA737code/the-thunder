@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The Thunder</title>
+    <link>https://RA737code.github.io/the-thunder</link>
+    <description>song. meal. something.</description>
+    <language>en</language>
+    <atom:link href="https://RA737code.github.io/the-thunder/feed.xml" rel="self" type="application/rss+xml"/>
+
+    <item>
+      <title>March 2026</title>
+      <link>https://RA737code.github.io/the-thunder/#2026-03-01</link>
+      <guid isPermaLink="false">the-thunder-2026-03-01</guid>
+      <pubDate>Sun, 01 Mar 2026 12:00:00 GMT</pubDate>
+      <description><![CDATA[<p><strong>song</strong><br>Radiohead — Weird Fishes<br><em>Written by Aliens - transmitted by Radiohead</em></p>
+<p><strong>meal</strong><br>Steak with Fries. Red wine. Broccoli if you have to make it healthy. Simple as that.</p>
+<p><strong>book</strong><br>Flow — Mihaly Csikszentmihalyi<br><em></em></p>
+<p><em>'&quot;One must still have chaos in oneself to give birth to a dancing star&quot; - Nietzsche'</em></p>]]></description>
+    </item>
+
+  </channel>
+</rss>

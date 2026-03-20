@@ -1,0 +1,125 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: #fff;
+  color: #000;
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 18px;
+  line-height: 1.75;
+  max-width: 640px;
+  margin: 0 auto;
+  padding: 52px 24px 140px 24px;
+}
+
+h1 {
+  font-size: 13px;
+  font-weight: bold;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  margin-bottom: 72px;
+}
+
+h1 a {
+  color: #000;
+  text-decoration: none;
+}
+
+.entry {
+  margin-bottom: 72px;
+  max-width: 600px;
+}
+
+.entry-date {
+  font-size: 21px;
+  font-weight: bold;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  margin-bottom: 20px;
+}
+
+.entry-song,
+.entry-meal,
+.entry-image-section,
+.entry-book,
+.entry-aphorism {
+  margin-bottom: 4px;
+}
+
+.label {
+  font-size: 17px;
+  font-weight: bold;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+}
+
+
+.entry-song .note,
+.entry-image-section .note,
+.entry-book .note,
+.entry-aphorism .note {
+  font-style: italic;
+}
+
+.note-inline {
+  font-style: italic;
+}
+
+.album-art {
+  display: block;
+  width: 120px;
+  height: 120px;
+  object-fit: cover;
+  margin-bottom: 8px;
+}
+
+.entry-img {
+  display: block;
+  max-width: 320px;
+  margin-bottom: 8px;
+}
+
+a {
+  color: #000;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.entry-line {
+  margin-top: 24px;
+  font-style: italic;
+}
+
+.entry p {
+  color: #000;
+}
+
+
+
+.divider {
+  border: none;
+  border-top: 1px solid #000;
+  margin: 0 0 72px 0;
+  max-width: 600px;
+}
+
+.rss-link {
+  display: block;
+  margin-top: 80px;
+  font-size: 11px;
+  font-weight: bold;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  color: #000;
+  text-decoration: none;
+}
+
+.rss-link:hover {
+  text-decoration: underline;
+}
