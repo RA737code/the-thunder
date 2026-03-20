@@ -141,7 +141,7 @@ fs.writeFileSync('index.html', `<!DOCTYPE html>
 </head>
 <body>
 
-  <h1><a href="/the-thunder/">The Thunder</a></h1>
+  <h1>The Thunder</h1>
 
   ${body}
 
